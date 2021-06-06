@@ -89,10 +89,6 @@ There is a test video uploaded in the data/video folder called test.mp4. If you 
 #### Video Example
 ![Demo of Object Tracker](data/helpers/demo.gif)
 
-#### Webcam Example
-This is a demo of running the object tracker using the above command for running the object tracker on your webcam.
-![Webcam Demo](data/helpers/webcam_demo.gif)
-
 ## Command Line Args Reference
 ```
 load_weights.py:
